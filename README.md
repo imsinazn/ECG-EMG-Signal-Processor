@@ -1,4 +1,3 @@
-![Uploading ECG2.png…]()
 # ECG & EMG Signal Processor
 
 A Python tool for processing biological signals (ECG and EMG) with filtering, FFT analysis, and SNR calculation.
